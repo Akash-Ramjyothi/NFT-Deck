@@ -155,7 +155,7 @@ const HomePage = () => {
                 <div className="amount-text">1.82</div>
                 <img
                   className="eth-highlight-image"
-                  src="\eth_icon.svg"
+                  src="eth_icon.svg"
                   alt="My Happy SVG"
                 />
               </div>
@@ -189,7 +189,7 @@ const HomePage = () => {
                 <div className="amount-text">98.5</div>
                 <img
                   className="eth-highlight-image"
-                  src="\eth_icon.svg"
+                  src="eth_icon.svg"
                   alt="My Happy SVG"
                 />
               </div>
@@ -223,7 +223,7 @@ const HomePage = () => {
                 <div className="amount-text">98.5</div>
                 <img
                   className="eth-highlight-image"
-                  src="\eth_icon.svg"
+                  src="eth_icon.svg"
                   alt="My Happy SVG"
                 />
               </div>
@@ -257,7 +257,7 @@ const HomePage = () => {
                 <div className="amount-text">98.5</div>
                 <img
                   className="eth-highlight-image"
-                  src="\eth_icon.svg"
+                  src="eth_icon.svg"
                   alt="My Happy SVG"
                 />
               </div>
@@ -291,7 +291,7 @@ const HomePage = () => {
                 <div className="amount-text">98.5</div>
                 <img
                   className="eth-highlight-image"
-                  src="\eth_icon.svg"
+                  src="eth_icon.svg"
                   alt="My Happy SVG"
                 />
               </div>
@@ -309,7 +309,7 @@ const HomePage = () => {
             <div className="img-container">
               <img
                 className="nft-image"
-                src="\azuki_img.svg"
+                src="azuki_img.svg"
                 alt="My Happy SVG"
               />
               <div className="tag">
@@ -324,7 +324,7 @@ const HomePage = () => {
                   <div className="amount-text">02.82</div>
                   <img
                     className="eth-image"
-                    src="\eth_icon.svg"
+                    src="eth_icon.svg"
                     alt="My Happy SVG"
                   />
                 </div>
@@ -335,7 +335,7 @@ const HomePage = () => {
                   <div className="amount-second-text">12.74</div>
                   <img
                     className="eth-second-image"
-                    src="\eth_icon.svg"
+                    src="eth_icon.svg"
                     alt="My Happy SVG"
                   />
                   <div className="amount-green-text">+21.6%</div>
@@ -348,7 +348,7 @@ const HomePage = () => {
             <div className="img-container">
               <img
                 className="nft-image"
-                src="\mayac_img.svg"
+                src="mayac_img.svg"
                 alt="My Happy SVG"
               />
               <div className="tag">
@@ -363,7 +363,7 @@ const HomePage = () => {
                   <div className="amount-text">02.82</div>
                   <img
                     className="eth-image"
-                    src="\eth_icon.svg"
+                    src="eth_icon.svg"
                     alt="My Happy SVG"
                   />
                 </div>
@@ -374,7 +374,7 @@ const HomePage = () => {
                   <div className="amount-second-text">12.74</div>
                   <img
                     className="eth-second-image"
-                    src="\eth_icon.svg"
+                    src="eth_icon.svg"
                     alt="My Happy SVG"
                   />
                   <div className="amount-green-text">+21.6%</div>
@@ -387,7 +387,7 @@ const HomePage = () => {
             <div className="img-container">
               <img
                 className="nft-image"
-                src="\moonbirds_img.svg"
+                src="moonbirds_img.svg"
                 alt="My Happy SVG"
               />
               <div className="tag">
@@ -402,7 +402,7 @@ const HomePage = () => {
                   <div className="amount-text">02.82</div>
                   <img
                     className="eth-image"
-                    src="\eth_icon.svg"
+                    src="eth_icon.svg"
                     alt="My Happy SVG"
                   />
                 </div>
@@ -413,7 +413,7 @@ const HomePage = () => {
                   <div className="amount-second-text">12.74</div>
                   <img
                     className="eth-second-image"
-                    src="\eth_icon.svg"
+                    src="eth_icon.svg"
                     alt="My Happy SVG"
                   />
                   <div className="amount-green-text">+21.6%</div>
@@ -426,7 +426,7 @@ const HomePage = () => {
             <div className="img-container">
               <img
                 className="nft-image"
-                src="\otherdeed_img.svg"
+                src="otherdeed_img.svg"
                 alt="My Happy SVG"
               />
               <div className="tag">
@@ -441,7 +441,7 @@ const HomePage = () => {
                   <div className="amount-text">02.82</div>
                   <img
                     className="eth-image"
-                    src="\eth_icon.svg"
+                    src="eth_icon.svg"
                     alt="My Happy SVG"
                   />
                 </div>
@@ -452,7 +452,7 @@ const HomePage = () => {
                   <div className="amount-second-text">12.74</div>
                   <img
                     className="eth-second-image"
-                    src="\eth_icon.svg"
+                    src="eth_icon.svg"
                     alt="My Happy SVG"
                   />
                   <div className="amount-green-text">+21.6%</div>
@@ -465,7 +465,7 @@ const HomePage = () => {
             <div className="img-container">
               <img
                 className="nft-image"
-                src="\cryptoz_img.svg"
+                src="cryptoz_img.svg"
                 alt="My Happy SVG"
               />
               <div className="tag">
@@ -480,7 +480,7 @@ const HomePage = () => {
                   <div className="amount-text">02.82</div>
                   <img
                     className="eth-image"
-                    src="\eth_icon.svg"
+                    src="eth_icon.svg"
                     alt="My Happy SVG"
                   />
                 </div>
@@ -491,7 +491,7 @@ const HomePage = () => {
                   <div className="amount-second-text">12.74</div>
                   <img
                     className="eth-second-image"
-                    src="\eth_icon.svg"
+                    src="eth_icon.svg"
                     alt="My Happy SVG"
                   />
                   <div className="amount-green-text">+21.6%</div>
