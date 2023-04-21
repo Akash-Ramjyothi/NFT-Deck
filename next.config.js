@@ -10,4 +10,7 @@ const nextConfig = {
 module.exports = {
   // ...other configuration options...
   output: "export",
+  experimental: {
+    appDir: true,
+  },
 };
