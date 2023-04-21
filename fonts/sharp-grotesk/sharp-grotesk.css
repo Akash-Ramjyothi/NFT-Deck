@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Sharp Grotesk';
+    src: url('SharpGroteskBlack05.ttf') format('truetype'),
+         url('SharpGroteskBlack05.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
