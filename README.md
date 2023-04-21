@@ -8,7 +8,7 @@
 Developed a complex webpage for Investors to easiy manage their assets/ NFTs in a highly intuitive manner. Followed a specific Figma design upto pixel-perfect. All the components used in this project can be easily configured to Backend services to achieve real-time functionalities.
 
 ## 📽 Sample Demo:
-
+https://user-images.githubusercontent.com/54114888/233740736-0da27672-2d47-4a1b-9f26-8cc309b20078.mp4
 
 ## 🌎 Deployed Website:
 ### https://akash-ramjyothi.github.io/NFT-Deck/
