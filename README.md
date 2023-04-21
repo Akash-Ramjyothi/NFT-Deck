@@ -1,36 +1,66 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">NFT Deck</h1>
 
-## Getting Started
+<p align="center">
+<img src="https://user-images.githubusercontent.com/54114888/233738245-8579f363-a81d-4643-8b79-9c2453775d27.png" width="180" height="180">
+</p>
 
-First, run the development server:
+## 📜 Description:
+Developed a complex webpage for Investors to easiy manage their assets/ NFTs in a highly intuitive manner. Followed a specific Figma design upto pixel-perfect. All the components used in this project can be easily configured to Backend services to achieve real-time functionalities.
 
+## 📽 Sample Demo:
+
+
+## 🌎 Deployed Website:
+### https://akash-ramjyothi.github.io/NFT-Deck/
+
+## 🎨 Figma link of Design followed:
+https://www.figma.com/file/C8IzwzZtiE6m9Ph3lMB95z/Untitled?node-id=0%3A1
+
+## 📸 Screenshot of Design: 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/54114888/233738993-b3b9f8c0-92ac-4280-a0b9-077b7f266dcb.png" width="800">
+</p>
+
+## 🏗 Built With:
+ - Next.JS
+ - TypeScript.
+ - Figma.
+ - Github Pages.
+ 
+ ## 🧪 Steps to locally build the website:
+
+- First, run the development server:
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 💥 How to Contribute?
 
-[http://localhost:3000/api/hello](http://localhost:3000/api/hello) is an endpoint that uses [Route Handlers](https://beta.nextjs.org/docs/routing/route-handlers). This endpoint can be edited in `app/api/hello/route.ts`.
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) 
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- Take a look at the Existing [Issues](https://github.com/Akash-Ramjyothi/NFT-Deck/issues) or create your own Issues!
+- Wait for the Issue to be assigned to you after which you can start working on it.
+- Fork the Repo and create a Branch for any Issue that you are working upon.
+- Create a Pull Request which will be promptly reviewed and suggestions would be added to improve it.
+- Add Screenshots to help me know what this Code is all about.
 
-## Learn More
+## 👦 Developed By:
+<h2 align="center">Akash Ramjyothi</h2>
+<p align="center">
+  <a href="https://github.com/Akash-Ramjyothi"><img src="https://avatars.githubusercontent.com/u/54114888?v=4" width=150px height=150px /></a> 
+    
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/akash-ramjyothi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:akash.ramjyothi@gmail.com?subject=Hello%20Akash,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/akash.ramjyothi/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  ☎️ PH:+91 8939928002.
+</p>
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 🌐 References Used:
+- https://www.youtube.com/watch?v=T63nY70eZF0
+- https://www.youtube.com/watch?v=mTz0GXj8NN0
+- https://www.youtube.com/watch?v=MFuwkrseXVE
+- https://www.youtube.com/watch?v=tsmaQdgidKg
