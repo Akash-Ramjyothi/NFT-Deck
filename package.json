@@ -2,21 +2,45 @@
   "name": "nft-deck",
   "version": "0.1.0",
   "private": true,
+  "description": "NFT Deck - Next.js application for exploring, managing, and showcasing NFTs",
+  "author": "Your Name",
+  "license": "MIT",
+  "homepage": "https://yourdomain.com",
   "scripts": {
     "dev": "next dev",
+    "dev:turbo": "next dev --turbo",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "start:prod": "NODE_ENV=production next start",
+    "lint": "next lint",
+    "lint:fix": "next lint --fix",
+    "type-check": "tsc --noEmit",
+    "clean": "rm -rf .next node_modules package-lock.json",
+    "reinstall": "npm run clean && npm install"
   },
   "dependencies": {
+    "next": "13.3.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
     "@types/node": "18.15.13",
     "@types/react": "18.0.37",
     "@types/react-dom": "18.0.11",
+    "typescript": "5.0.4",
     "eslint": "8.38.0",
-    "eslint-config-next": "13.3.0",
-    "next": "13.3.0",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "typescript": "5.0.4"
-  }
+    "eslint-config-next": "13.3.0"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  },
+  "keywords": [
+    "nft",
+    "nextjs",
+    "react",
+    "typescript",
+    "web3",
+    "frontend"
+  ]
 }
