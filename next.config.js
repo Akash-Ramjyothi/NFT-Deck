@@ -1,16 +1,34 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  experimental: {
-    appDir: true,
-  },
-}
+  reactStrictMode: true,
 
-//module.exports = nextConfig
-
-module.exports = {
-  // ...other configuration options...
+  // Enable static export (good for hosting on CDN / static hosting)
   output: "export",
+
   experimental: {
-    appDir: true,
+    appDir: true
   },
+
+  // Optimize images for static export
+  images: {
+    unoptimized: true
+  },
+
+  // Optional: Add basePath if deploying under subpath
+  // basePath: "/nft-deck",
+
+  // Optional: Enable SWC minification
+  swcMinify: true,
+
+  // Environment variables (example)
+  env: {
+    APP_NAME: "NFT Deck"
+  },
+
+  // Webpack customization (if needed)
+  webpack: (config) => {
+    return config;
+  }
 };
+
+module.exports = nextConfig;
